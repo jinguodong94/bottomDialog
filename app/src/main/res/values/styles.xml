@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="LocationDialogStyle" parent="@android:style/Theme.Holo.DialogWhenLarge">
+        <!-- 背景颜色 -->
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 定义对话框显示的动画 -->
+        <item name="android:windowAnimationStyle">@style/LocationAnimationStyle</item>
+
+        <!-- 背后的阴影 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 去掉标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 点击外部是否允许取消 -->
+        <item name="android:windowCloseOnTouchOutside">true</item>
+
+        <item name="android:windowFullscreen">true</item>
+
+    </style>
+    <style name="LocationAnimationStyle">
+        <item name="android:windowEnterAnimation">@anim/input_method_enter</item>
+        <item name="android:windowExitAnimation">@anim/input_method_exit</item>
+    </style>
+</resources>

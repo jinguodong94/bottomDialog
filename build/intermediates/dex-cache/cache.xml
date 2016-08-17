@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\myDocument\myDemo\BottomDialogDemo\bottomDialog\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\myDocument\myDemo\BottomDialogDemo\bottomDialog\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_726dc288090e8789cd61dfb1064fe4c5e46da808.jar" />
+    </item>
+    <item
+        jar="D:\myDocument\myDemo\BottomDialogDemo\bottomDialog\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\myDocument\myDemo\BottomDialogDemo\bottomDialog\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_addbea2c3b026fe465cd061e2e07a4a5e839fcad.jar" />
+    </item>
+    <item
+        jar="D:\myDocument\myDemo\BottomDialogDemo\bottomDialog\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\myDocument\myDemo\BottomDialogDemo\bottomDialog\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_14e1c87a5c52c2c37fe3ba3db328b19484a0efac.jar" />
+    </item>
+    <item
+        jar="C:\Users\D\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\myDocument\myDemo\BottomDialogDemo\bottomDialog\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_27e479a0381880f6cb162c960d659fe9c6c6733e.jar" />
+    </item>
+    <item
+        jar="D:\myDocument\myDemo\BottomDialogDemo\bottomDialog\app\libs\okhttp-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
+        <dex dex="D:\myDocument\myDemo\BottomDialogDemo\bottomDialog\app\build\intermediates\pre-dexed\debug\okhttp-2.6.0_428c76bb50e0a7b786d3a45a05b31e740065cdb5.jar" />
+    </item>
+    <item
+        jar="D:\myDocument\myDemo\BottomDialogDemo\bottomDialog\app\libs\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\myDocument\myDemo\BottomDialogDemo\bottomDialog\app\build\intermediates\pre-dexed\debug\okio-1.6.0_e4f7e050a8bd95e912ede22d99168d4edc9ded3f.jar" />
+    </item>
+    <item
+        jar="D:\myDocument\myDemo\BottomDialogDemo\bottomDialog\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\myDocument\myDemo\BottomDialogDemo\bottomDialog\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_d4a3554724ef0eebe21c6583cd31b12ef062eaf2.jar" />
+    </item>
+    <item
+        jar="D:\myDocument\myDemo\BottomDialogDemo\bottomDialog\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\myDocument\myDemo\BottomDialogDemo\bottomDialog\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_35d8328c5a9bdb40701790292ab4bc8684e96e56.jar" />
+    </item>
+
+</items>
